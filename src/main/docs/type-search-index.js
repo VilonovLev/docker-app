@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ru.vilonov.lesson1.regular","l":"Adapter"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ru.vilonov.lesson1.sample","l":"Main"}];updateSearchResults();
